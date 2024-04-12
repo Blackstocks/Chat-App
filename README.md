@@ -11,7 +11,7 @@ Welcome to the Chat App with Flutter and WebSocket project! This project aims to
 
 
 ## App Screenshots: 
-|![Intro](screenshots/chat_splash.png) | ![Login](screenshots/chat_login.png) | ![Chat Room Listing](screenshots/chat_chat_room_list.png) |
+![Login](screenshots/chat_login.png) | ![Chat Room Listing](screenshots/chat_chat_room_list.png) |
 |:---:|:---:|:---:|
 | Splash Screen  | Login Screen | Chat Room List Screen |
 | ![Chat Room](screenshots/chat_chat_room.png) |  |  |
